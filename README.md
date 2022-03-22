@@ -1,2 +1,2 @@
-# my_3DRender_knowledge
-3d渲染知识
+# FBX
+Everything You Need to Know About Using FBX Files（https://www.marxentlabs.com/fbx-files/）
