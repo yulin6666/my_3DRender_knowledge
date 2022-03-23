@@ -1,3 +1,5 @@
+# 骨骼动画
+Unity-利用SkinnedMeshRenderer和Mesh的BindPose实现骨骼动画 （ https://blog.csdn.net/qq826364410/article/details/85345479 ）
 # FBX
 Everything You Need to Know About Using FBX Files（https://www.marxentlabs.com/fbx-files/ ）
 
