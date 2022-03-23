@@ -1,3 +1,5 @@
+# Blendshape
+Blendshape表情动画 （ https://zhuanlan.zhihu.com/p/279402691 ）
 # 骨骼动画
 骨骼动画原理 （ https://www.cnblogs.com/tandier/p/10087656.html ）
 
