@@ -1,5 +1,6 @@
 # Blendshape
 Blendshape表情动画 （ https://zhuanlan.zhihu.com/p/279402691 ）
+Unity3D Blend Shape简析 （ https://www.jianshu.com/p/4ae6662a40df ）
 # 骨骼动画
 骨骼动画原理 （ https://www.cnblogs.com/tandier/p/10087656.html ）
 
