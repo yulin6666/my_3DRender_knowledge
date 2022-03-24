@@ -1,3 +1,6 @@
+# unity 捏脸
+游戏中捏脸的实现 ( https://github.com/huailiang/knead_proj )
+
 # Blendshape
 Blendshape表情动画 （ https://zhuanlan.zhihu.com/p/279402691 ）
 
