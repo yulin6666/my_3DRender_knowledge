@@ -1,6 +1,6 @@
 # unity 捏脸
 游戏中捏脸的实现 ( https://github.com/huailiang/knead_proj )
-
+千人千面如何炼成 技术讲解捏脸系统设计原理 （ http://games.sina.com.cn/o/z/wuxia/2015-10-15/fxivsch3599438-p5.shtml ）
 # Blendshape
 Blendshape表情动画 （ https://zhuanlan.zhihu.com/p/279402691 ）
 
