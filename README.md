@@ -13,6 +13,8 @@ Unity 工具类 之 BlendShape 捏脸的实现（ https://blog.csdn.net/u0143612
 骨骼动画原理 （ https://www.cnblogs.com/tandier/p/10087656.html ）
 
 Unity-利用SkinnedMeshRenderer和Mesh的BindPose实现骨骼动画 （ https://blog.csdn.net/qq826364410/article/details/85345479 ）
+
+盘点：12种动画制作工具让游戏角色栩栩如生 （ https://blog.csdn.net/mansir123/article/details/79013144 ）
 # FBX
 Everything You Need to Know About Using FBX Files（https://www.marxentlabs.com/fbx-files/ ）
 
