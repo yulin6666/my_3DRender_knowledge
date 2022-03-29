@@ -1,3 +1,6 @@
+# 动画系统
+unity动画系统 （ http://koonick.gitee.io/koonick-blog/2020/11/26/Unity_Animation/#3D%E6%A8%A1%E5%9E%8B%E5%AF%BC%E5%85%A5 ）
+
 # 人体 smpl-x
 人体捕捉：《SMPL-X》( https://blog.csdn.net/u011681952/article/details/103768018 )
 
