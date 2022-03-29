@@ -1,3 +1,6 @@
+# 人体 smpl-x
+人体捕捉：《SMPL-X》( https://blog.csdn.net/u011681952/article/details/103768018 )
+
 # unity 捏脸
 游戏中捏脸的实现 ( https://github.com/huailiang/knead_proj )
 
