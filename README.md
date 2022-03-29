@@ -7,6 +7,8 @@
 # Blendshape
 Blendshape表情动画 （ https://zhuanlan.zhihu.com/p/279402691 ）
 
+从Blendshapes到Animoji （ https://zhuanlan.zhihu.com/p/78174706 ）
+
 Unity3D Blend Shape简析 （ https://www.jianshu.com/p/4ae6662a40df ）
 
 Unity 工具类 之 BlendShape 捏脸的实现（ https://blog.csdn.net/u014361280/article/details/103929611 ）
