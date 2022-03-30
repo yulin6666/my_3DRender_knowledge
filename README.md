@@ -1,3 +1,9 @@
+# avatar
+Unity中的Avatar换装 （ https://zhuanlan.zhihu.com/p/41763382 ）
+
+Unity中Avatar换装实现 （ https://blog.uwa4d.com/archives/avartar.html ）
+
+
 # 动画系统
 unity动画系统 （ http://koonick.gitee.io/koonick-blog/2020/11/26/Unity_Animation/#3D%E6%A8%A1%E5%9E%8B%E5%AF%BC%E5%85%A5 ）
 
